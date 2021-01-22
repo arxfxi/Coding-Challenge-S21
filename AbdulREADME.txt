@@ -1,7 +1,7 @@
 //ABDUL RAFAI SUBMISSION
 
 #INSTRUCTIONS 
-1. Just open this link
+1. Just open this link or open ipynb file in github branch
 https://colab.research.google.com/drive/10k73JyStPwSfTL_5jXOlfnwvFc_qdhcb?usp=sharing
 
 #If doesn't work/show you may run it yourself
